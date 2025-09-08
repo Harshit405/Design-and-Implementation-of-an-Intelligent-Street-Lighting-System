@@ -15,7 +15,7 @@ An **IoT-based intelligent street lighting system** that automatically adjusts i
 ---
 
 ## 🛠️ Tech Stack  
-- **Hardware:** Arduino/ESP32, LDR Sensor, IR/Ultrasonic Sensors, Relays, LEDs  
+- **Hardware:** Arduino Nano , LDR Sensor, IR/Ultrasonic Sensors, Relays, LEDs  
 - **Software:** Arduino IDE, C/C++  
 - **Domain:** IoT, Embedded Systems, Smart Cities  
 
